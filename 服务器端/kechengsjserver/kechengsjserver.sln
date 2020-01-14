@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.852
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "kechengsjserver", "kechengsjserver\kechengsjserver.vcxproj", "{33D5E293-CC59-4CAB-9CB0-C8DB1EC49747}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{33D5E293-CC59-4CAB-9CB0-C8DB1EC49747}.Debug|x64.ActiveCfg = Debug|x64
+		{33D5E293-CC59-4CAB-9CB0-C8DB1EC49747}.Debug|x64.Build.0 = Debug|x64
+		{33D5E293-CC59-4CAB-9CB0-C8DB1EC49747}.Debug|x86.ActiveCfg = Debug|Win32
+		{33D5E293-CC59-4CAB-9CB0-C8DB1EC49747}.Debug|x86.Build.0 = Debug|Win32
+		{33D5E293-CC59-4CAB-9CB0-C8DB1EC49747}.Release|x64.ActiveCfg = Release|x64
+		{33D5E293-CC59-4CAB-9CB0-C8DB1EC49747}.Release|x64.Build.0 = Release|x64
+		{33D5E293-CC59-4CAB-9CB0-C8DB1EC49747}.Release|x86.ActiveCfg = Release|Win32
+		{33D5E293-CC59-4CAB-9CB0-C8DB1EC49747}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E71F908F-5545-42EB-9C25-4A7C3F2152B9}
+	EndGlobalSection
+EndGlobal
